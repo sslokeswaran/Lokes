@@ -1,0 +1,7 @@
+git clone "link"
+git add "filename"
+git commit
+git pull - to refresh
+git push - "file name" to be added in git
+git chechout branch name - to change branch
+git branch - to view the current branch
